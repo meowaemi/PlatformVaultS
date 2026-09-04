@@ -1,9 +1,9 @@
-package com.platformvaults.api.controller;
+package com.platformvaults.controller;
 
-import com.platformvaults.common.dto.ApiResponse;
-import com.platformvaults.common.dto.UserDto;
-import com.platformvaults.core.entity.User;
-import com.platformvaults.core.service.UserService;
+import com.platformvaults.dto.ApiResponse;
+import com.platformvaults.dto.UserDto;
+import com.platformvaults.entity.User;
+import com.platformvaults.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

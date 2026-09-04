@@ -1,6 +1,6 @@
-package com.platformvaults.core.repository;
+package com.platformvaults.repository;
 
-import com.platformvaults.core.entity.User;
+import com.platformvaults.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

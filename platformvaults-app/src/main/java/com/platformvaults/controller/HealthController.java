@@ -1,6 +1,6 @@
-package com.platformvaults.api.controller;
+package com.platformvaults.controller;
 
-import com.platformvaults.common.dto.ApiResponse;
+import com.platformvaults.dto.ApiResponse;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package com.platformvaults.core.entity;
+package com.platformvaults.entity;
 
 public enum UserStatus {
     PENDING,

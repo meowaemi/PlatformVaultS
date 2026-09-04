@@ -1,4 +1,4 @@
-package com.platformvaults.common.dto;
+package com.platformvaults.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.AllArgsConstructor;

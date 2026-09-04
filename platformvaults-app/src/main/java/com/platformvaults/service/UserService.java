@@ -1,9 +1,9 @@
-package com.platformvaults.core.service;
+package com.platformvaults.service;
 
-import com.platformvaults.common.dto.UserDto;
-import com.platformvaults.core.entity.User;
-import com.platformvaults.core.entity.UserStatus;
-import com.platformvaults.core.repository.UserRepository;
+import com.platformvaults.dto.UserDto;
+import com.platformvaults.entity.User;
+import com.platformvaults.entity.UserStatus;
+import com.platformvaults.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

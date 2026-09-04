@@ -1,7 +1,7 @@
 package com.platformvaults.bot;
 
-import com.platformvaults.core.entity.User;
-import com.platformvaults.core.service.UserService;
+import com.platformvaults.entity.User;
+import com.platformvaults.service.UserService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;

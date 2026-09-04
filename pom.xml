@@ -39,10 +39,6 @@
     </properties>
 
     <modules>
-        <module>platformvaults-common</module>
-        <module>platformvaults-core</module>
-        <module>platformvaults-api</module>
-        <module>platformvaults-bot</module>
         <module>platformvaults-app</module>
     </modules>
 
